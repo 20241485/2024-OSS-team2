@@ -11,4 +11,4 @@
 - 김종호 [@kjh456](https://github.com/kjh456/git)
 - 이현승 [@bluemoon-17](https://github.com/bluemoon-17)
 - 김지한 [@jihan4540](https://github.com/jihan4540)
-- 조성빈
+- 조성빈 [@csb0597](https://github.com/csb0597)
